@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: STEMLAB
+  cluster_info:
+    cluster_id: 9da8d8db-62c1-514f-8a43-67b3caf4f51f
+    cluster_name: demo-prod-3871bce1-79ad-4d44-b79f-5235259985d4
